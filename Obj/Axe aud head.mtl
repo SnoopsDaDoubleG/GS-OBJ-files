@@ -1,0 +1,18 @@
+newmtl Head1Mtl
+Material Color
+Ka 0.180144 0 0
+Kd 0.180144 0 0
+Ks 0.0211934 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Head1_diff.png
+map_Kd Head1_diff.png
+map_d Head1_diff.png
+
+map_Bump Head1_nmap.png
+
+map_Ns Head1_spec.png
+

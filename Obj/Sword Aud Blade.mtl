@@ -1,0 +1,18 @@
+newmtl Swordblade1Mtl
+Material Color
+Ka 0.180144 0 0
+Kd 0.180144 0 0
+Ks 0.0211934 0 0 
+
+d 1
+
+Ns 0
+
+map_Ka Swordblade1_diff.png
+map_Kd Swordblade1_diff.png
+map_d Swordblade1_diff.png
+
+map_Bump Swordblade1_nmap.png
+
+map_Ns Swordblade1_spec.png
+
